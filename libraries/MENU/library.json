@@ -1,0 +1,18 @@
+{
+  "name": "MENU",
+  "keywords": "MENU",
+  "description": "MENU",
+  "authors":
+  [
+    {
+      "name": "SuperJumboJet",
+      "email": "SuperJumboJet",
+      "maintainer": true
+    }
+  ],
+  "version": "0.3.0",
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*",
+  "headers": "MENU.h"
+}

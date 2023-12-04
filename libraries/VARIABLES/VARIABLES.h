@@ -2,11 +2,11 @@
 
 class sensor_data {
 public:
-    void setTemp(double value) {
+    void setTemp(float value) {
         temp = value;
     }
 
-    void setHumidity(double value) {
+    void setHumidity(float value) {
         humidity = value;
     }
 
